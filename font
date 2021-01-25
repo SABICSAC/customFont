@@ -1,6 +1,0 @@
-@font-face {
-            font-family: 'SabicLight';
-            src: url('https://www.sabic.com/fonts/SABIC_light.woff') format('woff');
-            font-weight: normal;
-            font-style: normal;
-} 
